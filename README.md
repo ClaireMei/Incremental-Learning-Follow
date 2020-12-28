@@ -8,6 +8,7 @@ Follow the newest research on incremental learning
 
 
 ### 2019
+Incremental Learners for Continual Learning https://github.com/arthurdouillard/incremental_learning.pytorch
 
 
 ### 2018
