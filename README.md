@@ -5,6 +5,7 @@ Follow the newest research on incremental learning
 
 ## Paper
 ### 2020
+PODNet: Pooled Outputs Distillation for Small-Tasks Incremental Learning
 
 
 ### 2019
